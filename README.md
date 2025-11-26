@@ -51,10 +51,10 @@ A granularidade definida para a da tabela **fato_professor_turma** é: **1 linha
 
 ### Tabelas Dimensão:
 
--   **dim_professor**\
--   **dim_departamento**\
--   **dim_data_horario**\
--   **dim_curso**\
+-   **dim_professor**
+-   **dim_departamento**
+-   **dim_data_horario**
+-   **dim_curso**
 -   **dim_disciplina**
 
 <br>
